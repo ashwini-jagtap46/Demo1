@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   a = "ashwini";
   title = "RXJS";
+  sita = "I am Sita";
 }
