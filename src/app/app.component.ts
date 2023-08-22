@@ -9,4 +9,6 @@ export class AppComponent {
   a = "ashwini";
   title = "RXJS";
   sita = "I am Sita";
+  kiran = "I am Kiran";
+  ram = "I am Ram";
 }
